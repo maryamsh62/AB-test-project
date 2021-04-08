@@ -1,7 +1,7 @@
 # Analyze AB test results
 
 ## Introduction
-In this project, we will be working to understand the results of an A/B test run by an [e-commerce website](https://en.wikipedia.org/wiki/E-commerce). The company has developed a new web page to increase the number of users who "convert," meaning the number of users who decide to pay for its product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
+In this project, we will be working to understand the results of an A/B test run by an [e-commerce website](https://en.wikipedia.org/wiki/E-commerce). The company has developed a new web page to increase the number of users who "convert," meaning the number of users who decide to pay for its product. Our goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ## Conclusion
 
